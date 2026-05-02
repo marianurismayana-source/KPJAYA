@@ -7,9 +7,10 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+## ABSTRAK
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Semoet Cafe merupakan UMKM di bidang kuliner yang telah menggunakan sistem Point of Sale (POS) Olsera dalam pencatatan transaksi penjualan, namun pengolahan serta pemantauan data seperti penjualan, laba, dan stok bahan baku masih belum tersaji dalam bentuk visual yang terintegrasi sehingga menyulitkan proses analisis dan pengambilan keputusan secara cepat dan akurat. Penelitian ini bertujuan untuk merancang dan membangun dashboard berbasis web untuk monitoring data tersebut dengan memanfaatkan data dari Olsera POS, sehingga informasi dapat disajikan secara visual, terstruktur, dan real-time untuk mendukung efektivitas dan efisiensi monitoring bisnis. Dalam pengembangannya digunakan metode Prototype yang memungkinkan adanya interaksi berulang dengan pengguna agar sistem dapat disesuaikan dengan kebutuhan operasional. Hasil dari penelitian ini adalah dashboard berbasis web yang mampu menampilkan informasi penjualan, laba, dan stok bahan baku secara lebih informatif sehingga membantu meningkatkan efisiensi operasional serta kualitas pengambilan keputusan di Semoet Cafe.
+Kata Kunci: Dashboard, Web, Olsera POS, Monitoring Penjualan, Prototype, UMKM, Sistem Informasi.
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
